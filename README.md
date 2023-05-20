@@ -1,4 +1,5 @@
 # komorebi-innovations
+
 Fashion product
 
 **Komorebi Innovations** proposes an interaction system that involves three main elements: sunlight, intermediate materials, and transmitted light. When sunlight passes through an intermediate material, such as fabric or lace, it undergoes refraction and/or reflection, resulting in the formation of dynamic shadows and patterns on a projection surface.
