@@ -1,7 +1,6 @@
 # komorebi-innovations
 
-**Komorebi Innovations: A Symphony of Light and Shadows**
-
+### Komorebi Innovations: A Symphony of Light and Shadows
 Discover the beauty of nature's artistry with Komorebi Innovations. Our experimental product line is inspired by the enchanting phenomenon of 'Komorebi' - the Japanese term for sunlight filtering through the leaves of trees, casting a dappled pattern of light and shadow.
 
 At Komorebi Innovations, we aim to recreate this captivating interplay of light and shadow through our unique interactive designs. Our products are not limited to fashion alone. We explore various mediums and materials to bring the magic of Komorebi into everyday life.
@@ -11,6 +10,7 @@ Our designs are more than just objects; they are experiences. As sunlight passes
 With Komorebi Innovations, you don't just wear a product; you become a part of nature's canvas, a living artwork bathed in the gentle glow of sunlight and the shifting patterns of shadows. Experience the beauty of Komorebi, and let nature's art become a part of your story.
 
 
+### The Science Behind the Art
 **Komorebi Innovations** proposes an interaction system that involves three main elements: sunlight, intermediate materials, and transmitted light. When sunlight passes through an intermediate material, such as fabric or lace, it undergoes refraction and/or reflection, resulting in the formation of dynamic shadows and patterns on a projection surface.
 
 The following functions can be considered in the mathematical modeling of this interaction system: 
@@ -45,5 +45,8 @@ By incorporating these equations into the modeling of the interaction system, it
 
 Sunlight (S) undergoes refraction and reflection when it encounters the intermediate material (M).
 The intermediate material (M) then produces projected patterns and shadows (P) based on the transmission coefficient (T) and reflection coefficient (R).
+
+### Beyond Fashion: An Interactive Experience
+Our products are not limited to fashion alone. We explore various mediums and materials to bring the magic of Komorebi into everyday life. Our designs are more than just objects; they are experiences. As sunlight passes through our specially designed materials, it refracts and reflects, creating dynamic patterns of light and shadow. Each product is a personal interaction system, a dance of sunlight and shadow that changes with the passing of the day.
 
 
