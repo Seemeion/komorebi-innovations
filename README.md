@@ -32,3 +32,9 @@ Where R is the reflection coefficient, T is the transmission coefficient, $\thet
 
 By incorporating these equations into the modeling of the interaction system, it is possible to predict the patterns and shadows that will be projected onto a surface when sunlight passes through a given intermediate material. This can inform the design and fabrication of translucent garments and accessories that produce unique visual effects when exposed to sunlight.
 
+![eJyVjsFqAjEQhu99iiFeLHRBF4p2BQ_tqYeFxext8ZAmE3dqTCSJ2L59p2u19VS8DPzf_Hwzm6j2PbTPdwCyE_LgHW36LNZQFCBWaKPSmYIH5Q1wdDhEwesl1J149RnjDg2pjFDziKScWLOtHgxtVD7tKKVvx0tAa0kT-gzj9v4kaTrRxPDOXjTQqMwKn4ZzslcmHNMf2-8D167V2cXNlD8dggRLzlUj-2RmU33B9RnbmX2c](https://github.com/Seemeion/komorebi-innovations/assets/25856410/8f3f9e1d-1061-422b-8128-82d5d13fe50b)
+
+Sunlight (S) undergoes refraction and reflection when it encounters the intermediate material (M).
+The intermediate material (M) then produces projected patterns and shadows (P) based on the transmission coefficient (T) and reflection coefficient (R).
+
+
